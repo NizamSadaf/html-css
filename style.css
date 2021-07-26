@@ -14,24 +14,12 @@
 .login_left
 {
     text-align: center ;
-    padding: 30px ;
+    padding: 40px ;
     color: #fff ;
     margin-top: 20px;
 }
-.login_left > button
-{
-    border-radius: 50%;
-    text-align: center;
-    width: 200px;
-    margin-left: 16px;
-    margin-top: 30px;
-    padding: 20px;
-    font-size: 30px;
-    color: #555;
-    border:none;
-    outline: none;
 
-}
+
 .login_right
 {
     background-color:  #f8f8f8;;
